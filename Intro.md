@@ -6,6 +6,10 @@ Main research interests and core competencies include wireless power and data tr
 systems, autonomous navigation on drones, computer vision, image processing on navigation problems,
 swarm intelligence.
 
+📧 saadpasta70@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/oguzhan-dogan-139620125/
+
+
 
 <!---
 root27/root27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
