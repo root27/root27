@@ -11,6 +11,7 @@ swarm intelligence.
 📧 oguzhaneee@gmail.com <br>
 💼 LinkedIn: https://www.linkedin.com/in/oguzhan-dogan-139620125/ <br>
 
+![Visitor Count](https://profile-counter.glitch.me/{root27}/count.svg)
  </samp>
 </p>
 
