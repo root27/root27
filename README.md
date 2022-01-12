@@ -18,8 +18,8 @@ I am a software developer who enjoy developing ML and DL model and AI technologi
 
 📊 **This Week I Spent My Time On:**
 
-[![Oguzhan's stats]](https://github-readme-stats.vercel.app/api/wakatime?username=root27)](https://github.com/root27/github-readme-stats)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
 
