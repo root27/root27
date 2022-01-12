@@ -19,10 +19,9 @@ I am a software developer who enjoy developing ML and DL model and AI technologi
 
 📈 **My GitHub Stats:**
 
-<p>
 [![Oguzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=root27)](https://github.com/root27/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root27)](https://github.com/root27/github-readme-stats)
-</p>
+
 
 
 
