@@ -9,7 +9,6 @@ I am a software developer who enjoy developing ML and DL model and AI technologi
 
 ###  Stuff I deal with on a daily basis
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -18,8 +17,8 @@ I am a software developer who enjoy developing ML and DL model and AI technologi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+[!](https://github-readme-stats.vercel.app/api/wakatime?username=root27)](https://github.com/root27/github-readme-stats)
 
 
 📈 **My GitHub Stats:**
