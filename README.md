@@ -41,6 +41,8 @@ I am a software developer who enjoy developing mobile and web apps.
 
 ---
 
+### 📊 Coding Time:
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -53,6 +55,8 @@ Bash             0 secs          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+---
 
 ### Top Langs: 
 
