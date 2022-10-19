@@ -41,6 +41,9 @@ I am a software developer who enjoy developing mobile and web apps.
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Top Langs: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
