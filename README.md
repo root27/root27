@@ -37,7 +37,7 @@ I am a software developer who enjoy developing mobile and web apps.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=root27&theme=dark&background=000000)](https://git.io/streak-stats)
+<p><img src="https://github-readme-stats.vercel.app/api?username=root27&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
 ---
 
