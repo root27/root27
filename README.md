@@ -42,6 +42,16 @@ I am a software developer who enjoy developing mobile and web apps.
 ---
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript       15 hrs 44 mins  █████████████████████▒░░░   84.92 %
+CSS              2 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+HTML             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Blade Template   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Top Langs: 
