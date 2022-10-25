@@ -37,7 +37,7 @@ I am a software developer who enjoy developing mobile and web apps.
 
 ### :fire: My Stats :
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=root27&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=root27&show_icons=true&theme=dracula&include_all_commits=true" alt="cxyfreedom" /></p>
 
 ---
 
