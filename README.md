@@ -64,7 +64,7 @@ Nginx configuration file   4 hrs 32 mins   -------------------------   01.15 %
 
 ### Top Langs: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root27&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
