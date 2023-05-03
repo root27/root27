@@ -46,14 +46,14 @@ I am a software developer who enjoy developing mobile and web apps.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2022 - To: 30 April 2023
+From: 11 January 2022 - To: 01 May 2023
 
-Total Time: 601 hrs 18 mins
+Total Time: 603 hrs 20 mins
 
-JavaScript                 512 hrs 47 mins >>>>>>>>>>>>>>>>>>>>>----   85.28 %
-CSS                        34 hrs 59 mins  >------------------------   05.82 %
-JSON                       8 hrs 42 mins   -------------------------   01.45 %
-HTML                       8 hrs 26 mins   -------------------------   01.40 %
+JavaScript                 514 hrs 10 mins >>>>>>>>>>>>>>>>>>>>>----   85.22 %
+CSS                        34 hrs 59 mins  >------------------------   05.80 %
+JSON                       8 hrs 44 mins   -------------------------   01.45 %
+HTML                       8 hrs 32 mins   -------------------------   01.42 %
 Python                     7 hrs 43 mins   -------------------------   01.28 %
 Nginx configuration file   4 hrs 32 mins   -------------------------   00.75 %
 ```
