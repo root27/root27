@@ -38,7 +38,29 @@ I am a software developer who enjoy developing mobile and web apps.
 
 ### :fire: My Stats :
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=root27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="cxyfreedom" /></p>
+<table>
+  <tr>
+        <td colspan="2">
+        <strong><samp>Stats:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Streak:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=root27&count_private=true&hide_border=true&show_icons=true&theme=radical&include_all_commits=true">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=root27&count_private=true&hide_border=true&show_icons=true&theme=radical&include_all_commits=true">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=root27&hide_border=true&theme=radical">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=root27&hide_border=true&theme=radical">
+        </a>
+        </td>
+    </tr>
+ </table>
+
 
 ---
 
