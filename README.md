@@ -5,7 +5,7 @@
 
 ---
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=root27.root27)
+### Glad to see you here! &nbsp; 
 
 
 I am a software developer who enjoy developing mobile and web apps.
