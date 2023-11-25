@@ -67,7 +67,7 @@ I am a software developer who enjoy developing mobile and web apps.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2022 - To: 22 November 2023
+From: 11 January 2022 - To: 23 November 2023
 
 Total Time: 847 hrs 39 mins
 
