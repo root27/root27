@@ -67,15 +67,15 @@ I am a software developer who enjoy developing mobile and web apps.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2022 - To: 29 February 2024
+From: 11 January 2022 - To: 01 March 2024
 
-Total Time: 1,012 hrs 44 mins
+Total Time: 1,015 hrs 44 mins
 
-JavaScript                 729 hrs 7 mins  >>>>>>>>>>>>>>>>>>-------   72.00 %
-Go                         119 hrs 7 mins  >>>----------------------   11.76 %
-CSS                        37 hrs 39 mins  >------------------------   03.72 %
-Rust                       30 hrs 2 mins   >------------------------   02.97 %
-JSON                       14 hrs 14 mins  -------------------------   01.41 %
+JavaScript                 729 hrs 7 mins  >>>>>>>>>>>>>>>>>>-------   71.78 %
+Go                         122 hrs 6 mins  >>>----------------------   12.02 %
+CSS                        37 hrs 39 mins  >------------------------   03.71 %
+Rust                       30 hrs 2 mins   >------------------------   02.96 %
+JSON                       14 hrs 14 mins  -------------------------   01.40 %
 ```
 
 <!--END_SECTION:waka-->
