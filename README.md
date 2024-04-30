@@ -4,7 +4,7 @@
 ![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](https://oguzhandogan.dev)
 
 
-I am a software developer experienced in designing and building scalable systems using Golang, Nodejs and Rust. Also I enjoy building cli tools and making side projects.
+I am a software developer experienced in designing and building scalable systems using Golang, Nodejs. Also I enjoy building cli tools and making side projects.
 
 ---
 
