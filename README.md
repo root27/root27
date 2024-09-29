@@ -17,6 +17,31 @@ I am a software developer experienced in designing and building scalable systems
 
 ---
 
+### ⭐️ Open Source Projects 
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/root27/URL-Shortener"><b>URL Shortener</b></a></td>
+      <td>This URL shortener application built with golang and as database, redis is used</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/root27/gosys"><b>System Monitoring Tool</b></a></td>
+      <td>Real-time system monitoring tool on the system tray</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/root27/termongo"><b>Terminal Mongo</b></a></td>
+      <td>Cli tool for mongo database management</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/root27/termapi"><b>Http inspector</b></a></td>
+      <td>Cli tool for http inspection</td>
+    </tr>
+
+
+  </tbody>
+</table>
+
 ### :fire: My Stats 
 
 <table>
