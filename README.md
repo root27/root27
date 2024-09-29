@@ -37,7 +37,18 @@ I am a software developer experienced in designing and building scalable systems
       <td><a href="https://github.com/root27/termapi"><b>Http inspector</b></a></td>
       <td>Cli tool for http inspection</td>
     </tr>
-
+    <tr>
+      <td><a href="https://github.com/root27/serverless-redirector"><b>Serverless Redirector Service</b></a></td>
+      <td>URL redirector using Google Sheets as database</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/root27/go-stream-youtube"><b>Audio stream from youtube videos</b></a></td>
+      <td>Golang audio stream from youtube videos</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/root27/2pdf"><b>Pdf converter</b></a></td>
+      <td>Simple Web Service to convert specified files to pdf</td>
+    </tr>
 
   </tbody>
 </table>
