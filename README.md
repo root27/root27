@@ -49,6 +49,10 @@ I am a software developer experienced in designing and building scalable systems
       <td><a href="https://github.com/root27/2pdf"><b>Pdf converter</b></a></td>
       <td>Simple Web Service to convert specified files to pdf</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/root27/slacknotifyMQ"><b>Slack Notifier</b></a></td>
+      <td>Cli tool for slack notifier</td>
+    </tr>
 
   </tbody>
 </table>
