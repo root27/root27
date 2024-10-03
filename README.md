@@ -90,12 +90,12 @@ I am a software developer experienced in designing and building scalable systems
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2022 - To: 30 September 2024
+From: 11 January 2022 - To: 01 October 2024
 
-Total Time: 1,394 hrs 28 mins
+Total Time: 1,396 hrs
 
-JavaScript                 764 hrs 48 mins >>>>>>>>>>>>>>-----------   54.85 %
-Go                         345 hrs 14 mins >>>>>>-------------------   24.76 %
+JavaScript                 764 hrs 48 mins >>>>>>>>>>>>>>-----------   54.79 %
+Go                         346 hrs 43 mins >>>>>>-------------------   24.84 %
 CSS                        38 hrs 3 mins   >------------------------   02.73 %
 Rust                       36 hrs 57 mins  >------------------------   02.65 %
 HTML                       32 hrs 32 mins  >------------------------   02.33 %
