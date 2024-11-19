@@ -53,7 +53,14 @@ I am a software developer experienced in designing and building scalable systems
       <td><a href="https://github.com/root27/slacknotifyMQ"><b>Slack Notifier</b></a></td>
       <td>Cli tool for slack notifier</td>
     </tr>
-
+    <tr>
+      <td><a href="https://github.com/root27/bgremover"><b>Background Remover</b></a></td>
+      <td>Image background remover</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/root27/tunecraft"><b>Youtube videos to mp3</b></a></td>
+      <td>Youtube to mp3 converter</td>
+    </tr>
   </tbody>
 </table>
 
