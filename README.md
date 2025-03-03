@@ -12,7 +12,7 @@ I am a software developer experienced in designing and building scalable systems
 
 - **Language:** Go, Javascript, Rust
 - **Message Broker:** RabbitMQ
-- **DevOps:** AWS, Google Cloud, Docker
+- **DevOps:** AWS, Google Cloud, Docker, Kubernetes
 - **Database:** SQL, Postgres, MongoDB
 
 ---
