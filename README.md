@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Oguzhan Dogan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguzhan-dogan-139620125/) [
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogzdo/) [
 ![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](https://oguzhandogan.dev)
 
 
@@ -23,19 +23,7 @@ I am a software developer experienced in designing and building scalable systems
   <tbody>
     <tr>
       <td><a href="https://github.com/root27/URL-Shortener"><b>URL Shortener</b></a></td>
-      <td>This URL shortener application built with golang and as database, redis is used</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/root27/gosys"><b>System Monitoring Tool</b></a></td>
-      <td>Real-time system monitoring tool on the system tray</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/root27/termongo"><b>Terminal Mongo</b></a></td>
-      <td>Cli tool for mongo database management</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/root27/termapi"><b>Http inspector</b></a></td>
-      <td>Cli tool for http inspection</td>
+      <td>This URL shortener application built with golang</td>
     </tr>
     <tr>
       <td><a href="https://github.com/root27/serverless-redirector"><b>Serverless Redirector Service</b></a></td>
@@ -50,16 +38,41 @@ I am a software developer experienced in designing and building scalable systems
       <td>Simple Web Service to convert specified files to pdf</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/root27/slacknotifyMQ"><b>Slack Notifier</b></a></td>
-      <td>Cli tool for slack notifier</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/root27/bgremover"><b>Background Remover</b></a></td>
       <td>Image background remover</td>
     </tr>
     <tr>
       <td><a href="https://github.com/root27/tunecraft"><b>Youtube videos to mp3</b></a></td>
       <td>Youtube to mp3 converter</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### ⭐️ Tools/Packages 
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/root27/gosys"><b>System Monitoring Tool</b></a></td>
+      <td>Real-time system monitoring tool on the system tray</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/root27/certwatch"><b>SSL Certificate Expiry Checker & Auto-Renewal Tool</b></a></td>
+      <td>Nginx ssl certificate checker and auto-renewal</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/root27/termongo"><b>Terminal Mongo</b></a></td>
+      <td>Cli tool for mongo database management</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/root27/termapi"><b>Http inspector</b></a></td>
+      <td>Cli tool for http inspection</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/root27/slacknotifyMQ"><b>Slack Notifier</b></a></td>
+      <td>Cli tool for slack notifier</td>
     </tr>
   </tbody>
 </table>
