@@ -110,7 +110,7 @@ I am a software developer experienced in designing and building scalable systems
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2022 - To: 07 March 2026
+From: 11 January 2022 - To: 08 March 2026
 
 Total Time: 2,028 hrs 31 mins
 
