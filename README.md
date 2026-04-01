@@ -55,10 +55,6 @@ I am a software developer experienced in designing and building scalable systems
 <table>
   <tbody>
     <tr>
-      <td><a href="https://github.com/root27/axcheck"><b>Axios Vulnerability Scanner</b></a></td>
-      <td>Package scanner of js projects focused on axios</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/root27/gosys"><b>System Monitoring Tool</b></a></td>
       <td>Real-time system monitoring tool on the system tray</td>
     </tr>
